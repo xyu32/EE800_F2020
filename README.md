@@ -12,7 +12,7 @@
 ## Object detection based on R-CNN,YOLO and SSD  
 
 
-###### Introduction  
+## Introduction  
 
 **Object detection** is an important part in advanced driver assistance systems.   
 
@@ -20,5 +20,7 @@ It can recognize and locate objects with computers instead of human intelligence
 
 This project will mainly focus on **YOLO** and **SSD**   
 
-and compare them with **R-CNN** families to see which has a good performance.
+and compare them with **R-CNN** families to see which has a good performance.  
+  
 
+## How to use
