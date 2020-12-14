@@ -1,9 +1,5 @@
 # EE800_F2020  
 
--Xuelian Yu   
-
--Email:xyu32@stevens.edu  
-
 -Google site:https://sites.google.com/view/xyu32-od/home  
 
 
