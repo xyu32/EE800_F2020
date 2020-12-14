@@ -5,7 +5,7 @@
 
 
 
-## Object detection based on R-CNN,YOLO and SSD  
+## Object detection based on R-CNN, YOLO, and SSD  
 
 
 ## Introduction  
